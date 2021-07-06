@@ -1,3 +1,4 @@
 print("hello world")
 print("i try to understand this programm')
 это новая строка
+1 r 1
